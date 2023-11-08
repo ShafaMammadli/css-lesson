@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: serif;
+}
+
+.class1 {
+    color: rgb(12, 150, 12);
+}
+
+.class2 {
+    color: rgb(233, 14, 14);
+}
+
+.color3 {
+    color: rgb(30, 30, 237);
+}

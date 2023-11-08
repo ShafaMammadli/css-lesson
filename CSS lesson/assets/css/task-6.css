@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+}
+
+.class1 {
+    display: inline;
+    background-color: rgb(230, 226, 226);
+}
+
+.class2 {
+    display: inline-block;
+    background-color: rgb(154, 190, 190);
+}

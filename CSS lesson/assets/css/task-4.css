@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    text-decoration: black underline;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    font-size: large;
+    color: rgb(12, 12, 167);
+    font-weight: bolder;
+}
+
+.class1 {
+    color: red;
+    padding-top:20px ;
+}
+
+.class2 {
+    color: darkblue;
+    font-family: cursive;
+}
+
+.class3 {
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.class5 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.class6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

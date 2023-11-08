@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@300&family=Rubik:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@300&family=Oxygen:wght@300&family=Rubik:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Encode+Sans+Condensed:wght@300&family=Oxygen:wght@300&family=Rubik:ital,wght@1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    display: inline-block;
+    height: 40px;
+    width: 85px;
+    font-size: 22px;
+    margin: 15px;
+}
+
+.color1 {
+    background-color: #DBD8E7;
+}
+
+.color2 {
+    background-color: #D8E6E7;
+}
+
+.color3 {
+    background-color: #F78197;
+}
+
+.color4 {
+    background-color: #7AAC71;
+}
+
+.color5 {
+    background-color: #FC8BC8;
+}
+
+.color6 {
+    background-color: #FDE079;
+}
+
+.color7 {
+    background-color: #626D8D;
+}
+
+.color8 {
+    background-color: #FCE7B8;
+}
+
+.color9 {
+    background-color: #BD68B5;
+}
+
+.color10 {
+    background-color: #7BF2DF;
+}
+
+.color11 {
+    background-color: #C45568;
+}
+
+.font1 {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.font2 {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.font3 {
+    font-family: 'Dancing Script', cursive;
+}
